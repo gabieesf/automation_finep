@@ -71,4 +71,4 @@ jobs:
         uses: actions/deploy-pages@v2
 
       - name: Link Relatorio
-        run: echo 'https://github.com/gabieesf/automation_finep'
+        run: echo 'https://cdn.rawgit.com/rajatthareja/ReportBuilderJava/v1.0.3/js/report.builder.min.js'
