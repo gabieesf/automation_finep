@@ -60,7 +60,7 @@ public class RunCucumberTest {
         reportBuilder.setReportDirectory("target/report-builder/");
         reportBuilder.setReportFileName("index");
         reportBuilder.setReportColor(Color.PURPLE); // http://materializecss.com/color.html
-        reportBuilder.setReportTitle("teste_finep");
+        reportBuilder.setReportTitle("automation_finep");
         reportBuilder.setAdditionalInfo("Date", dataReport);
         reportBuilder.setAdditionalInfo("Environment", "N/A");
         reportBuilder.setAdditionalInfo("Browser", "N/A");
